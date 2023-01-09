@@ -1,7 +1,7 @@
 # Hi there 👋
 Welcome to geduramc profile
 
-[website](https://www.geduramc.com)
+<a href="[http://example.com/](https://www.geduramc.com)" target="_blank">website</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geduramc&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px)](https://github.com/geduramc/github-readme-stats)
 ![geduramc GitHub stats](https://github-readme-stats.vercel.app/api?username=geduramc&show_icons=true&theme=github_dark&line_height=20px)
