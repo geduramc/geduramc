@@ -11,10 +11,10 @@ Welcome to geduramc's profile
   <a href="[https://skillicons.dev](https://github.com/anuraghazra/github-readme-stats)" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geduramc&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px" />
   </a>
-  <a href="#">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=geduramc&show_icons=true&theme=github_dark&line_height=20px" />
   </a>
-  <a href="#">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=geduramc&theme=github-dark-blue" />
   </a>
 </p>
