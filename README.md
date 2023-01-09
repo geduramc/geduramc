@@ -1,7 +1,5 @@
 # Hi there 👋
-Welcome to geduramc's profile
-
-[website](https://www.geduramc.com)
+[Welcome to geduramc's profile](https://www.geduramc.com)
 
 <p align="center">
   <a href="https://skillicons.dev">
