@@ -8,7 +8,7 @@ Welcome to geduramc's profile
 </p>
 
 <p align="center">
-  <a href="[https://skillicons.dev](https://github.com/anuraghazra/github-readme-stats)" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geduramc&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
