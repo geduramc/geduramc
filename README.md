@@ -9,9 +9,10 @@ Welcome to geduramc profile
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geduramc&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geduramc&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px)](https://github.com/anuraghazra/github-readme-stats)
 ![geduramc GitHub stats](https://github-readme-stats.vercel.app/api?username=geduramc&show_icons=true&theme=github_dark&line_height=20px)
-
+</p>
 
 <!--
 **geduramc/geduramc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
