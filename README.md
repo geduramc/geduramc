@@ -1,5 +1,5 @@
 # Hi there 👋
-Welcome geduramc profile
+Welcome to geduramc profile
 
 [website](https://www.geduramc.com)
 
