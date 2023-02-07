@@ -1,4 +1,4 @@
-# ![https://www.geduramc.com](https://www.geduramc.com/favicon-32x32.png) Hi there 👋
+# Hi there 👋
 Welcome to geduramc's profile
 
 <p align="center">
